@@ -1,0 +1,16 @@
+Daftar Anggota Kelompok 4
+
+- Nisa’ul Fadhilah (00000060236) 
+- Rajendra Abhinaya (00000060445) 
+- Rasyid Alim Aulia (00000061628) 
+- Alexa Zeta Yudhadinatha (00000061034)
+- Kevin Sorensen (00000062002)
+
+
+Link Hosting
+
+https://roux.my.id/
+
+Untuk import database, masukin query berikut ini untuk membesar maximum file size:
+SET GLOBAL net_buffer_length=1000000;
+SET GLOBAL max_allowed_packet=1000000000;
